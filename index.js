@@ -3,4 +3,7 @@ function happyHolidays(string) {
   return "Happy holidays!"
 }
 
-happyHolidaysTo
+
+function happyHolidays(string) {
+  return "Happy holidays!"
+}
